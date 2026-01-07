@@ -20,7 +20,7 @@ def write_to_file(primes):
         file.write(f"{primes}")
   
   
-result_of_primes = primes_in_range(1, 150)
+result_of_primes = primes_in_range(1, 250)
 
 print("Finished. Writing result to file...")
 to_file = write_to_file(result_of_primes)
