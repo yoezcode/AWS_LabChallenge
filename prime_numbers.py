@@ -1,0 +1,1 @@
+## Display all the prime numbers between 1 to 250. Store results in a results.txt file
